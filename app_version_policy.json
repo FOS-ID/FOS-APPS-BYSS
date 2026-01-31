@@ -3,21 +3,21 @@
     "all": "0.0.0",
     "web": "0.0.0",
     "windows": "0.0.0",
-    "android": "0.0.0",
+    "android": "1.0.1",
     "ios": "0.0.0"
   },
   "latest": {
     "all": "1.0.0",
     "web": "1.0.0",
     "windows": "1.0.0",
-    "android": "1.0.0",
+    "android": "1.0.1",
     "ios": "1.0.0"
   },
   "urls": {
     "all": "",
     "web": "",
     "windows": "",
-    "android": "",
+    "android": "https://github.com/FOS-ID/FOS-APPS-BYSS/releases/download/v1.0.1/app-debug.apk",
     "ios": ""
   },
   "message": "Update tersedia. Silakan unduh versi terbaru untuk melanjutkan."
