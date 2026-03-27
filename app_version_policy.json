@@ -16,7 +16,7 @@
   "urls": {
     "all": "",
     "web": "",
-    "windows": "",
+    "windows": "https://github.com/FOS-ID/FOS-APPS-BYSS/releases/download/v1.0.20/FOS.Apps.Setup.1.0.25.exe",
     "android": "https://github.com/FOS-ID/FOS-APPS-BYSS/releases/download/v1.0.20/app-release.apk",
     "ios": ""
   },
